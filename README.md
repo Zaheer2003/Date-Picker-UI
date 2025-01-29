@@ -10,6 +10,6 @@ A simple static **Date Picker UI** built using **HTML and CSS**, designed to loo
 - 🎨 Fully styled with **CSS** (no Bootstrap, no JavaScript).
 
 ## 📷 Preview
-![Date Picker UI](./screenshot.png)  
+![Date Picker UI](datepickerui.png)  
 
 ## 📂 Folder Structure
