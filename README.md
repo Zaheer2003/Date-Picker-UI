@@ -12,4 +12,13 @@ A simple static **Date Picker UI** built using **HTML and CSS**, designed to loo
 ## 📷 Preview
 ![Date Picker UI](datepickerui.png)  
 
-## 📂 Folder Structure
+
+## 🛠️ Technologies Used
+- **HTML** – for structuring the date picker.
+- **CSS** – for styling and positioning.
+
+## 🚀 Getting Started
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/YOUR-USERNAME/datepicker-ui.git
+
